@@ -1,2 +1,2 @@
-# CC0-Music
-Public domain music in .opus format
+# Free-Music
+Public domain(or similar freely redistributable for any purpose) music,  in .opus format.

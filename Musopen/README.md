@@ -21,3 +21,11 @@ https://musopen.org/music/15216-ciacona-in-d-minor-t204/
 Ciacona in D minor, T.204
 Gosse Hulzinga
 CC-PD
+
+https://musopen.org/music/43860-pumped/
+Justin Mahar
+CC-PD
+
+https://musopen.org/music/33104-canzona-la-foresta/
+Michel Rondeau
+CC-PD

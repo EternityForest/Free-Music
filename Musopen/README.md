@@ -40,9 +40,19 @@ Fugue in G minor, ''Little'', BWV 578 - Complete Performance
 Robert Köbler
 CC-PD
 
-
-
 https://musopen.org/music/6329-first-suite-for-military-band-op-28-no-1/
 Holst First Suite for Military Band, Op. 28 no. 1
+United States Marine Band
+CC-PD
+
+https://musopen.org/music/43785-king-cotton/
+John Philip Sousa
+King Cotton
+United States Marine Band
+CC-PD
+
+https://musopen.org/music/43794-the-fairest-of-the-fair/
+John Philip Sousa
+The Fairest of the Fair
 United States Marine Band
 CC-PD

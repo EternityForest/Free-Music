@@ -62,3 +62,9 @@ https://musopen.org/music/777-peer-gynt-suite-no-1-op-46/
 Peer Gynt Suite no. 1, Op. 46 - IV. In the Hall Of The Mountain King
 Musopen Symphony
 CC-PD
+
+https://musopen.org/music/44212-learn-to-smile-from-the-musical-comedy-the-obrien-girl/
+Learn to Smile (from the Musical Comedy "The O'Brien Girl")
+Otto Harbach - Louis A. Hirsch
+John McCormack
+CC-PD
